@@ -52,18 +52,13 @@ Due to GitHub file size limitations, the Power BI file can be downloaded here:
 ## 📈 Dashboard Preview
 
 ### Overview Analysis
-
-![Overview Dashboard](Dashboard_Page1.png)
+![Overview Dashboard](Overview.png)
 
 ### Ratings Analysis
-
-![Ratings Dashboard](Dashboard_Page2.png)
+![Ratings Dashboard](Ratings.png)
 
 ### Reviews Analysis
-
-![Reviews Dashboard](Dashboard_Page3.png)
-
----
+![Reviews Dashboard](Reviews.png)
 
 ## 🔍 Key Insights
 
